@@ -2,6 +2,11 @@
 
 This project demonstrates how to handle single and multiple image uploads in a Next.js application. It uses server actions to process and save uploaded images locally to the public directory on the server.
 
+⚠️ **WARNING:** This project serves only as a guideline. It **will not work in production** because Next.js does not dynamically render the `public` folder.  
+
+If you have suggestions to improve the code, feel free to contribute or share your ideas!
+
+
 ## Features
 - Upload single or multiple images
 - Save uploaded images locally with unique filenames
